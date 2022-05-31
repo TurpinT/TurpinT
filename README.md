@@ -1,3 +1,5 @@
+![banner](/banner.jpg)
+
 ### Hi there 👋, I'm Thibault Turpin !
 
 <div align="center">
