@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Thibault Turpin !
 
-
+<br>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/thibault-turpin/?locale=en_US" target="_blank">
@@ -10,7 +10,7 @@
 </a>
 </div>
 
-
+<br>
 
 
 Fast Learner. I am a curious, persistent and thoughtful person. 
