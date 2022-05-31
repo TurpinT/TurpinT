@@ -8,4 +8,4 @@ Passionate about investments and cryptocurrencies, I keep a daily information wa
 
 Thanks to my professional experiences and my field of study, I have been able to develop adequate skills to work in finance and in the world of crypto assets.
 
-https://www.linkedin.com/in/thibault-turpin/?locale=en_US
+
