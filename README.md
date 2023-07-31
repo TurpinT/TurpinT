@@ -1,4 +1,4 @@
-![banner](/banner.jpg)
+![banner](https://raw.githubusercontent.com/okp4/.github/main/profile/static/okp4-banner-v2.webp)
 
 ### Hi there 👋, I'm Thibault Turpin !
 
